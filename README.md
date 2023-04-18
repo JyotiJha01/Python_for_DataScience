@@ -9,3 +9,5 @@ Day 3 - Data Structures
 Day 4 - Conditionals, Input & Output, Loops
 
 Day 5 - Loops and Hand-on
+
+Day 6 - Comprehensions and Functions
