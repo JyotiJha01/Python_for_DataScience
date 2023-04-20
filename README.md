@@ -11,3 +11,5 @@ Day 4 - Conditionals, Input & Output, Loops
 Day 5 - Loops and Hand-on
 
 Day 6 - Comprehensions and Functions
+
+Day 7 - OOPs
