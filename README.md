@@ -19,3 +19,5 @@ Day 8 - NumPy
 Day 9 - Pandas
 
 Day 10 - Pandas and Matplotlib
+
+Day 11 - Seaborn and Web Scrapping
