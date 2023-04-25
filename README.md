@@ -13,3 +13,9 @@ Day 5 - Loops and Hand-on
 Day 6 - Comprehensions and Functions
 
 Day 7 - OOPs
+
+Day 8 - NumPy
+
+Day 9 - Pandas
+
+
